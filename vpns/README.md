@@ -3,3 +3,6 @@ We'll read all the material listed in this markdown, and the files found in this
 
 ### Websites:
 https://www.cloudflare.com/en-gb/learning/access-management/what-is-a-vpn/?utm_source=chatgpt.com
+
+### VPN RFC´s
+https://datatracker.ietf.org/doc/html/rfc2764
